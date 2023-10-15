@@ -48,7 +48,7 @@
 }
 
 .chat {
-  width: calc (100vw - 300px);
+  width: calc(100vw - 300px);
   background-color: #ffffff;
 }
 
@@ -65,11 +65,15 @@
   font-size: 24px;
 }
 
+.header-button {
+  margin-top: 40px;
+}
+
 .header-button a {
   text-decoration: none;
   border: 1px solid darkred;
   color: darkred;
-  padding 20px;
+  padding: 20px;
 }
 
 .messages {
